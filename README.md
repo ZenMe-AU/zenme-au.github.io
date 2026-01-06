@@ -1,4 +1,5 @@
 # ZBWebsite
 Zenblox Website
 
-hello
+We follow the Trunk based version control management practice:
+https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
