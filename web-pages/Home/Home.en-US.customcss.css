@@ -12,3 +12,8 @@
 @import url('https://content.powerapps.com/resource/powerappsportal/fonts/comfortaa/v40/400.css');
 @import url('https://content.powerapps.com/resource/powerappsportal/fonts/bitter/v32/400.css');
 @import url('https://content.powerapps.com/resource/powerappsportal/fonts/bitter/v32/400-italic.css');
+
+@font-face {
+  font-family: 'Open Sans';
+  font-display: swap;
+}
