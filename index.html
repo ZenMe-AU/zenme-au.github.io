@@ -42,9 +42,12 @@
     integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"
     defer></script>
   <div id="navbar-placeholder" style="min-height: 68px;"></div>
-  <div id="mainContent" class="row sectionBlockLayout text-start"
+  <div id="mainContent" aria-label="Main Content" class="row sectionBlockLayout text-start"
     style='display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px; position: relative;'>
-    <img src="/web-files/6.webp" alt="" fetchpriority="high" decoding="async" width="2432" height="1664" style="
+    <section aria-labelledby="hero-heading">
+      <img src="/digital-assets/Blue/Futuristic_City_SFZM.png"
+        alt="Futuristic cityscape representing digital innovation and security." fetchpriority="high" decoding="async"
+        width="2432" height="1664" style="
     position: absolute;
     inset: 0;
     width: 100%;
@@ -53,14 +56,14 @@
     z-index: -1;
   ">
 
-    <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
-      <!-- <div class="col-lg-12 columnBlockLayout"
+      <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+        <!-- <div class="col-lg-12 columnBlockLayout"
         style="flex-grow: 1; 
         display: flex; 
         flex-direction: column; 
         align-items: flex-end; 
         min-width: 250px;"> -->
-      <div class="col-lg-12 columnBlockLayout" style="
+        <div class="col-lg-12 columnBlockLayout" style="
           flex-grow: 1;
           display: flex;
           flex-direction: row;
@@ -71,33 +74,33 @@
           padding: 0px;
           margin: 0px;
         ">
-        <!--         removed padding further
+          <!--         removed padding further
         <div class="col-lg-12 columnBlockLayout" style="
 
           padding: 0px;
           margin: 0px;
         "> -->
 
-        <img src="/web-files/LogoWords small 1.webp" alt="Logo" style="height: 70px; width: auto;">
-        <div style="display: flex; flex-direction: column; max-width: 650px; align-items: flex-end;">
-          <p class="smallText"
-            style="text-align: right; color: var(--portalThemeColor1); width: 392px; max-width: 100%; font-family: Open Sans; font-size: 18px;">
-            Solutions tailored for government, enterprise, and compliance-driven industries.&nbsp;</p>
-          <h2
-            style="text-align: right; color: var(--portalThemeColor1); font-size: 49px; border-radius: 0px 0px 0px 0px; border: 0px solid rgb(255, 255, 255); display: block; width: 603px; max-width: 100%; font-family: Open Sans;">
-            Bridging Business, Compliance &amp; Innovation in Large-Scale IT Systems<br /></h2>
+          <img src="/web-files/LogoWords small 1.webp" alt="ZenMe Logo" style="height: 70px; width: auto;">
+          <div style="display: flex; flex-direction: column; max-width: 650px; align-items: flex-end;">
+            <p class="smallText"
+              style="text-align: right; color: var(--portalThemeColor8); width: 392px; max-width: 100%; font-family: Open Sans; font-size: 18px;">
+              Solutions tailored for government, enterprise, and compliance-driven industries.&nbsp;</p>
+            <h1 id="hero-heading"
+              style="text-align: right; color: var(--portalThemeColor8); font-size: 49px; border-radius: 0px 0px 0px 0px; border: 0px solid rgb(255, 255, 255); display: block; width: 603px; max-width: 100%; font-family: Open Sans;">
+              Bridging Business, Compliance &amp; Innovation in Large-Scale IT Systems<br /></h1>
+          </div>
         </div>
       </div>
-    </div>
+    </section>
   </div>
-  <div class="row sectionBlockLayout text-start"
-    style="display: flex; flex-wrap: wrap; margin: 49px; min-height: auto; padding: 32px;">
-    <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
+
+  <section class="row sectionBlockLayout text-start" aria-labelledby="who-we-are" style="display: flex; flex-wrap: wrap; margin: 49px; min-height: auto; padding: 32px;">    <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
       <div class="col-lg-6 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; justify-content: flex-start; width: calc(50% + 0px);">
-        <h4
+        <h2 id="who-we-are" 
           style="text-align: left; font-size: 49px; letter-spacing: 0px; font-family: Open Sans; font-weight: 600; margin: 0px 0px 0px 0px;">
-          Who we are</h4>
+          Who we are</h2>
         <div class="row sectionBlockLayout"
           style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 30px;"></div>
         <p style="font-size: 17px;">At Zenblox, we specialise in helping organisations navigate the complexities of
@@ -114,25 +117,23 @@
       </div>
       <div class="col-lg-6 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; justify-content: flex-start; width: calc(50% + 0px);">
-        <img src="/web-files/1.webp" alt="1" name="1.png"
+        <img src="/digital-assets/Blue/Rubikscube_SFZM.png" alt="1" name="1.png"
           style="max-width: 100%; width: 100%; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; transform: rotateZ(0deg) scaleX(0.8) scaleY(0.8) translateX(0px) translateY(0px);" />
       </div>
-    </div>
-  </div>
-  <div class="row sectionBlockLayout text-start"
-    style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
-    <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
+  </section>
+  <section class="row sectionBlockLayout text-start" aria-labelledby="led-with-expertise" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
+  <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
       <div class="col-lg-6 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(50% + 0px);">
-        <img src="/web-files/2.webp" alt="2" name="2.png"
+        <img src="/web-files/Designer6.png" alt="" Blue illustration of diverse professionals seated around a conference
+          table, with cloud computing, data, and security icons representing digital collaboration.
           style="width: 100%; height: auto; max-width: 100%; transform: rotateZ(0deg) scaleX(0.8) scaleY(0.8) translateX(0px) translateY(-40px); padding: 24px 24px 24px 24px;" />
       </div>
       <div class="col-lg-6 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(50% + 0px);">
-        <p style="text-align: left; font-size: 28px; letter-spacing: 1px;">
-          <i><b aria-label="Text Led by expertise Press enter to edit" style="position: relative;">Led with
-              expertise</b></i>
-        </p>
+        <h3 id="led-with-expertise" style="text-align: left; font-weight: bold; font-style: italic; letter-spacing: 1px; margin: 0;">
+          Led with expertise
+        </h3>
         <div class="row sectionBlockLayout"
           style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 15px;"></div>
         <p style="font-size: 17px;">Zenblox is guided by an experienced Solutions and Enterprise Architect with over 15
@@ -145,16 +146,15 @@
           infrastructure.</p>
       </div>
     </div>
-  </div>
-  <div class="row sectionBlockLayout text-start"
-    style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
-    <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+  </section>
+  <section class="row sectionBlockLayout text-start" aria-labelledby="what-we-do" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
+      <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
       <div class="col-lg-12 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px;">
-        <h4 style="text-align: center; font-size: 49px; letter-spacing: 0px;">What we do&nbsp;</h4>
+        <h2 id="what-we-do" style="text-align: center; font-size: 49px; letter-spacing: 0px;">What we do&nbsp;</h2>
       </div>
     </div>
-  </div>
+  </section>
   <div class="row sectionBlockLayout text-start"
     style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
     <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
@@ -162,12 +162,14 @@
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(33.3333% + 0px);">
         <a alt="5" href="/web-pages/Project Architecture/Project Architecture.en-US.webpage.copy.html" target="_blank"
           style="width: 100%; height: auto; max-width: 100%; transform: rotateZ(0deg) scaleX(0.8) scaleY(0.8) translateX(0px) translateY(0px); display: flex;"><img
-            src="/web-files/5.webp" alt="5" name="5.png" style="max-width: 100%; height: 100%; width: 100%;" /></a>
-        <h5 style="text-align: center; font-size: 23px;">​<a
+            src="/digital-assets/Blue/Designer_(30)_SFZM.png"
+            alt="Illustration of global cloud computing infrastructure with servers, data dashboards, cityscape, and security icons representing connected digital systems."
+            style="max-width: 100%; height: 100%; width: 100%;" /></a>
+        <h3 style="text-align: center; font-size: 23px;"><a
             href="/web-pages/Project Architecture/Project Architecture.en-US.webpage.copy.html" target="_blank"
             aria-label="Link Project Architecture Press enter to edit"
             class="anchor-inherit-styles anchor-hover-color-color2" style="font-weight: 600;">Project Architecture</a>
-        </h5>
+        </h3>
         <p style="text-align: center; font-size: 17px;">Structuring project components to ensure smooth delivery and
           value for users and stakeholders.&nbsp;</p>
       </div>
@@ -175,12 +177,14 @@
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(33.3333% + 0px);">
         <a alt="4" href="/web-pages/Security Governance/Security Governance.en-US.webpage.copy.html" target="_blank"
           style="width: 100%; height: auto; max-width: 100%; transform: rotateZ(0deg) scaleX(0.8) scaleY(0.8) translateX(0px) translateY(0px); display: flex;"><img
-            src="/web-files/4.webp" alt="4" name="4.png" style="max-width: 100%; height: 100%; width: 100%;" /></a>
-        <h5 style="text-align: center; font-size: 23px;"><a
+            src="/digital-assets/Blue/Lock_SFZM.png"
+            alt="Blue shield icon with a keyhole symbol representing cybersecurity and data protection."
+            style="max-width: 100%; height: 100%; width: 100%;" /></a>
+        <h3 style="text-align: center; font-size: 23px;"><a
             href="/web-pages/Security Governance/Security Governance.en-US.webpage.copy.html" target="_blank"
             aria-label="Link Security &amp; Compliance Press enter to edit"
             class="anchor-inherit-styles anchor-hover-color-color2" style="font-weight: 600;">Security &amp;
-            Compliance</a></h5>
+            Compliance</a></h3>
         <p style="text-align: center; font-size: 17px;">Ensuring regulatory compliance, security, and risk management in
           IT transformations.</p>
       </div>
@@ -188,25 +192,24 @@
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(33.3333% + 0px);">
         <a alt="6" href="/web-pages/Architect Resources/Architect Resources.en-US.webpage.copy.html" target="_blank"
           style="width: 100%; height: auto; max-width: 100%; transform: rotateZ(0deg) scaleX(0.8) scaleY(0.8) translateX(0px) translateY(0px); display: flex;"><img
-            src="/web-files/6.webp" alt="6" name="6.png" style="max-width: 100%; height: 100%; width: 100%;" /></a>
-        <h5 style="text-align: center; font-size: 23px;"><a
+            src="/web-files/Designer7.png"
+            alt="Conceptual illustration of project architecture showing layered system components rising from a digital platform, alongside diagrams, laptops, and planning materials."
+            style="max-width: 100%; height: 100%; width: 100%;" /></a>
+        <h3 style="text-align: center; font-size: 23px;"><a
             href="/web-pages/Architect Resources/Architect Resources.en-US.webpage.copy.html" target="_blank"
             aria-label="Link Architect Resources Press enter to edit"
             class="anchor-inherit-styles anchor-hover-color-color2" style="font-weight: 600;">Architect Resources</a>
-        </h5>
+        </h3>
         <p style="text-align: center; font-size: 17px;">Designing and guiding systems to meet user needs and align
           technology with business goals.&nbsp;</p>
       </div>
     </div>
   </div>
-  <div class="row sectionBlockLayout"
-    style="display: flex; flex-wrap: wrap; padding: 8px; margin: 0px; min-height: 80px;"></div>
-  <div class="row sectionBlockLayout text-start"
-    style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
-    <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
+  <section class="row sectionBlockLayout text-start" aria-labelledby="our-clients" style="display: flex; flex-wrap: wrap; margin: 0px; min-height: auto; padding: 8px;">
+     <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
       <div class="col-lg-12 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px;">
-        <h4 style="text-align: center; font-size: 49px; letter-spacing: 0px;">Our clients&nbsp;</h4>
+        <h4 id="our-clients" style="text-align: center; font-size: 49px; letter-spacing: 0px;">Our clients&nbsp;</h4>
       </div>
     </div>
   </div>
@@ -215,13 +218,13 @@
     <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap;">
       <div class="col-lg-4 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;"><img src="/web-files/7.png"
-          alt="7" name="7.png" style="max-width: 100%; width: 100%; height: auto;" /></div>
+          alt="Pacific National Logo" style="max-width: 100%; width: 100%; height: auto;" /></div>
       <div class="col-lg-4 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;"><img src="/web-files/8.png"
-          alt="8" name="8.png" style="max-width: 100%; width: 100%; height: auto;" /></div>
+          alt="DXC Technology Logo" style="max-width: 100%; width: 100%; height: auto;" /></div>
       <div class="col-lg-4 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px;"><img src="/web-files/9.png"
-          alt="9" name="9.png" style="max-width: 100%; width: 100%; height: auto;" /></div>
+          alt="Shell Logo" style="max-width: 100%; width: 100%; height: auto;" /></div>
     </div>
   </div>
   <div class="row sectionBlockLayout text-start"
@@ -229,24 +232,25 @@
     <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
       <div class="col-lg-6 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(50% + 0px);">
-        <img src="/web-files/10.png" alt="10" name="10.png"
+        <img src="/web-files/10.png" alt="Rio Tinto Logo"
           style="width: 100%; height: auto; max-width: 100%; transform: rotateZ(0deg) scaleX(0.6) scaleY(0.6) translateX(100px) translateY(0px); margin-left: auto; margin-right: 0;" />
       </div>
       <div class="col-lg-6 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(50% + 0px);">
-        <img src="/web-files/11.png" alt="11" name="11.png"
+        <img src="/web-files/11.png" alt=" Queensland Government Department of Transport and Main Roads Logo"
           style="width: 100%; height: auto; max-width: 100%; transform: rotateZ(0deg) scaleX(0.6) scaleY(0.6) translateX(-100px) translateY(0px); margin-left: auto; margin-right: 0;" />
       </div>
     </div>
   </div>
+  </section>
 
-  <section style="
+  <section aria-labelledby="lets-connect-heading" style="
   background:#f5f7fa;
   padding:80px 20px;
   text-align:center;
 ">
 
-    <h2 style="
+    <h2 id="lets-connect-heading" style="
     font-size:42px;
     font-family:'Open Sans', sans-serif;
     color:#1a1a1a;
@@ -266,7 +270,7 @@
       Connect with me on LinkedIn to continue the conversation.
     </p>
 
-    <a href="https://au.linkedin.com/in/jpvosloo" target="_blank" style="
+    <a href="https://au.linkedin.com/in/jpvosloo" target="_blank" aria-label="Connect with JP Vosloo on LinkedIn, opens in a new tab" style="
        background-color:#0077B5;
        color:white;
        padding:16px 36px;
@@ -289,7 +293,7 @@
     <div class="container" style="padding: 0px; display: flex; flex-wrap: wrap; column-gap: 0px;">
       <div class="col-lg-4 columnBlockLayout"
         style="flex-grow: 1; display: flex; flex-direction: column; min-width: 250px; margin: 0px; padding: 0px; width: calc(33.3333% + 0px);">
-        <img src="/web-files/LogoWords small 1.webp" alt="LogoWords small (1)" name="LogoWords small (1).png"
+        <img src="/web-files/LogoWords small 1.webp" alt="ZenMe Logo"
           style="width: 23%; height: 68px; max-width: 100%;" />
       </div>
       <div class="col-lg-8 columnBlockLayout"
