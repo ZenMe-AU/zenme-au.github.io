@@ -16,129 +16,87 @@
 
     <link
         href="https://content.powerapps.com/resource/powerappsportal/dist/font-awesome.BootstrapV5.bundle-2ce6efb497.css"
-        onerror="javascript: var target = event.target; var link = document.createElement('link'); link.crossOrigin = target.crossOrigin; link.href = '/dist/font-awesome.BootstrapV5.bundle-2ce6efb497.css'; link.rel = 'stylesheet'; target.insertAdjacentElement('afterend',link);"
+        onerror="var target = event.target; var link = document.createElement('link'); link.crossOrigin = target.crossOrigin; link.href = '/dist/font-awesome.BootstrapV5.bundle-2ce6efb497.css'; link.rel = 'stylesheet'; target.insertAdjacentElement('afterend',link);"
         rel="stylesheet">
 
     <link href="https://content.powerapps.com/resource/powerappsportal/dist/preform.BootstrapV5.bundle-a79c3ca7cf.css"
-        onerror="javascript: var target = event.target; var link = document.createElement('link'); link.crossOrigin = target.crossOrigin; link.href = '/dist/preform.BootstrapV5.bundle-a79c3ca7cf.css'; link.rel = 'stylesheet'; target.insertAdjacentElement('afterend',link);"
+        onerror="var target = event.target; var link = document.createElement('link'); link.crossOrigin = target.crossOrigin; link.href = '/dist/preform.BootstrapV5.bundle-a79c3ca7cf.css'; link.rel = 'stylesheet'; target.insertAdjacentElement('afterend',link);"
         rel="stylesheet">
 
 
     <link href="https://content.powerapps.com/resource/powerappsportal/dist/pwa-style.bundle-55718a4c0d.css"
-        onerror="javascript: var target = event.target; var link = document.createElement('link'); link.crossOrigin = target.crossOrigin; link.href = '/dist/pwa-style.bundle-55718a4c0d.css'; link.rel = 'stylesheet'; target.insertAdjacentElement('afterend',link);"
+        onerror="var target = event.target; var link = document.createElement('link'); link.crossOrigin = target.crossOrigin; link.href = '/dist/pwa-style.bundle-55718a4c0d.css'; link.rel = 'stylesheet'; target.insertAdjacentElement('afterend',link);"
         rel="stylesheet">
+
+    <style>
+        @media (max-width: 1200px) {
+            .navbar {
+                justify-content: flex-start !important;
+            }
+
+            .navbar-toggler {
+                /* margin-right: auto !important; */
+                margin-left: 0 !important;
+                /* margin-right: auto !important; */
+            }
+
+            .custom-container {
+                padding-left: 10px !important;
+            }
+        }
+    </style>
 
 </head>
 
 <body data-sitemap-state="/" data-dateformat="M/d/yyyy" data-timeformat="h:mm tt" data-datetimeformat="M/d/yyyy h:mm tt"
     data-app-path="/" data-ckeditor-basepath="/js/BaseHtmlContentDesigner/Libs/msdyncrm_/libs/ckeditor/"
     data-case-deflection-url="/_services/search/fa4abf2e-2a04-4f64-adb9-5f74794ed340">
-
-    <!--  remove below to make it not sticky
-  position: fixed !important;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 1050; -->
-
-    <div class="navbar-expand-xl navbar navbar-dark static-top" style="flex-wrap:wrap;" role="banner">
+    <div class="navbar-expand-xl navbar navbar static-top" style="flex-wrap:wrap;" role="banner">
         <div class="skip-to-content">
             <a href="#mainContent">Skip to main content</a>
         </div>
         <div class="container custom-container">
-            <div class="d-xs-block d-sm-block d-md-block d-lg-block navbar-brand navbar-header">
-                <div class="xrm-editable-html xrm-attribute" data-languagecontext="English">
-                    <div class="xrm-attribute-value"><a href="/">
-                            <img src="/web-files/LogoWords small 1.png" alt="Zenblox logo"
-                                style="width: auto; height: 32px; margin: 0 10px;">
-
-                            <h1 class="siteTitle custom-sitetitle"></h1>
-
-                        </a>
-                    </div>
-                </div>
-            </div>
             <button type="button" class="navbar-toggler collapsed custom-navbar-toggler" title="Toggle navigation"
                 data-bs-toggle="collapse" data-bs-target="#navbar" aria-expanded="false" onclick="setHeight();">
                 <span class="visually-hidden">Toggle navigation</span>
                 <span class="navbar-toggler-icon"></span>
             </button>
-
             <div id="navbar" class="navbar-collapse collapse" style="width: min-content;">
-
-
-                <nav aria-label="Main Navigation" class="ms-auto menu-bar " data-weblinks-maxdepth="2">
+                <nav aria-label="Main Navigation" class="menu-bar " data-weblinks-maxdepth="2">
                     <ul class="nav navbar-nav weblinks">
-
-
-
-
-
                         <li class="nav-item weblink ">
                             <a aria-label="Home" class="nav-link" href="/" aria-roledescription="link" title="Home"
                                 aria-current="page">
                                 Home
                             </a>
-
                         </li>
-
-
                         <li class="nav-item divider-vertical" aria-hidden="true"></li>
-
-
-
-
                         <li class="nav-item weblink ">
-                            <a aria-label="Security Governance" class="nav-link" href="/web-pages/Security Governance/Security Governance.en-US.webpage.copy.html"
+                            <a aria-label="Security Governance" class="nav-link"
+                                href="/web-pages/Security Governance/Security Governance.en-US.webpage.copy.html"
                                 aria-roledescription="link" title="Security Governance">
                                 Security Governance
                             </a>
-
                         </li>
-
-
                         <li class="nav-item divider-vertical" aria-hidden="true"></li>
-
-
-
-
                         <li class="nav-item weblink ">
-                            <a aria-label="Project Architecture" class="nav-link" href="/web-pages/Project Architecture/Project Architecture.en-US.webpage.copy.html"
+                            <a aria-label="Project Architecture" class="nav-link"
+                                href="/web-pages/Project Architecture/Project Architecture.en-US.webpage.copy.html"
                                 aria-roledescription="link" title="Project Architecture">
                                 Project Architecture
                             </a>
-
                         </li>
-
-
                         <li class="nav-item divider-vertical" aria-hidden="true"></li>
-
-
-
-
                         <li class="nav-item weblink ">
-                            <a aria-label="Architect Resources" class="nav-link" href="/web-pages/Architect Resources/Architect Resources.en-US.webpage.copy.html"
+                            <a aria-label="Architect Resources" class="nav-link"
+                                href="/web-pages/Architect Resources/Architect Resources.en-US.webpage.copy.html"
                                 aria-roledescription="link" title="Architect Resources">
                                 Architect Resources
                             </a>
 
                         </li>
-
-
-
-                        <li class="nav-item divider-vertical" aria-hidden="true"></li>
-
-                        <li class="nav-item">
-                            <a class="nav-link" aria-label="Sign in" aria-roledescription="link"
-                                href="/SignIn?returnUrl=%2F">
-                                Sign in
-                            </a>
-                        </li>
-
                     </ul>
-
                 </nav>
-
             </div>
         </div>
     </div>

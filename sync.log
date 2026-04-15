@@ -1,0 +1,518 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wednesday, 15 April 2026 2:42:30 PM
+   Source : C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\
+     Dest : C:\Users\ibrah\Documents\ZBWebsite\ZBWebsite\digital-assets\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /XO /R:2 /W:2 
+
+------------------------------------------------------------------------------
+
+	                   2	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\
+	    New File  		      84	desktop.ini100%  
+	                 140	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\Black\
+	    New File  		   31943	BlackAIchip_CanvaFree.png100%  
+	    New File  		   11145	Blackarrowroad2_CanvaFree.png100%  
+	    New File  		   11014	Blackarrowroad_CanvaFree.png100%  
+	    New File  		  501884	Blackbluehand2_CanvaFree.png100%  
+	    New File  		  357801	Blackbluehand_CanvaFree.png100%  
+	    New File  		  250439	BlackblueITsystem_CanvaFree.png100%  
+	    New File  		   35108	Blackcirclelogo_CanvaFree.png100%  
+	    New File  		   36541	Blackclock_CanvaFree.png100%  
+	    New File  		  130602	Blackcomputerandphone_CanvaFree.png100%  
+	    New File  		   28828	Blackcomputerchip_CanvaFree.png100%  
+	    New File  		   31422	Blackcomputerlock_CanvaFree.png100%  
+	    New File  		   30721	BlackCPU_CanvaFree.png100%  
+	    New File  		   39687	Blackdiagonaldots_CanvaFree.png100%  
+	    New File  		  110436	Blackdigitalbrain2_CanvaFree.png100%  
+	    New File  		  313617	Blackdigitalbrain3_CanvaFree.png100%  
+	    New File  		  115961	Blackdigitalbrain4_CanvaFree.png100%  
+	    New File  		  114366	Blackdigitalbrain_CanvaFree.png100%  
+	    New File  		   34140	Blackdigitalcloud_CanvaFree.png100%  
+	    New File  		   79074	Blackdigitalfingerprint_CanvaFree.png100%  
+	    New File  		   28958	Blackdigitalphone_CanvaFree.png100%  
+	    New File  		   42211	Blackdigitalshield_CanvaFree.png100%  
+	    New File  		   26174	Blackdotarrow_CanvaFree.png100%  
+	    New File  		   29480	Blackdotfadedarrow2_CanvaFree.png100%  
+	    New File  		   29695	Blackdotfadedarrow_CanvaFree.png100%  
+	    New File  		   73129	Blackdotgradient_CanvaFree.png100%  
+	    New File  		    8993	Blackdotlines_CanvaFree.png100%  
+	    New File  		   26144	Blackdots3_CanvaFree.png100%  
+	    New File  		   54085	Blackearthsymbol_CanvaFree.png100%  
+	    New File  		   41932	Blackearth_CanvaFree.png100%  
+	    New File  		  110433	Blackfingerprint2_CanvaFree.png100%  
+	    New File  		  199922	Blackfingerprint3_CanvaFree.png100%  
+	    New File  		  134158	Blackfingerprint_CanvaFree.png100%  
+	    New File  		   29610	Blackfloatingdots_CanvaFree.png100%  
+	    New File  		   35411	Blackgears_CanvaFree.png100%  
+	    New File  		   63643	Blackglobedots_CanvaFree.png100%  
+	    New File  		   56476	Blackglobewithpins_CanvaFree.png100%  
+	    New File  		  156647	Blackglobe_CanvaFree.png100%  
+	    New File  		  439459	Blackgreyhand2_CanvaFree.png100%  
+	    New File  		  368765	Blackgreyhand_CanvaFree.png100%  
+	    New File  		   38573	Blackgreyshield_CanvaFree.png100%  
+	    New File  		   83924	Blackinterconnectedcube_CanvaFree.png100%  
+	    New File  		   34405	Blackinterconnecteddots_CanvaFree.png100%  
+	    New File  		   42246	Blackinterconnectedlogo_CanvaFree.png100%  
+	    New File  		   41411	Blackkeyandlock_CanvaFree.png100%  
+	    New File  		   26612	Blacklayers_CanvaFree.png100%  
+	    New File  		    9845	Blackloadingscreen_CanvaFree.png100%  
+	    New File  		  131068	Blackpentagonshape_CanvaFree.png100%  
+	    New File  		   36780	Blackpixellock_CanvaFree.png100%  
+	    New File  		   62851	Blackqrcode_CanvaFree.png100%  
+	    New File  		   53008	Blackraincloud_CanvaFree.png100%  
+	    New File  		  378125	Blackredhand_CanvaFree.png100%  
+	    New File  		  209702	Blackroad_CanvaFree.png100%  
+	    New File  		   38148	Blacksecurityandkey_CanvaFree.png100%  
+	    New File  		   22197	Blacksecurityscreen_CanvaFree.png100%  
+	    New File  		   35493	Blacksecuritysystems_CanvaFree.png100%  
+	    New File  		   40107	Blacksecuritytheft_CanvaFree.png100%  
+	    New File  		   51248	Blacksecuritywithscreens_CanvaFree.png100%  
+	    New File  		   70891	Blacksecurity_CanvaFree.png100%  
+	    New File  		   21736	Blacksettings2_CanvaFree.png100%  
+	    New File  		   23621	Blacksettings_CanvaFree.png100%  
+	    New File  		   51186	Blacksideprofilerobot_CanvaFree.png100%  
+	    New File  		   62275	Blacksunrise_CanvaFree.png100%  
+	    New File  		   46424	Blackwifioutline_CanvaFree.png100%  
+	    New File  		   25914	Blackwifisymbol_CanvaFree.png100%  
+	    New File  		   33756	Blackwirelesscloud_CanvaFree.png100%  
+	    New File  		   30773	Blackwrench_CanvaFree.png100%  
+	    New File  		   84024	Fingerprint_CanvaFree.png100%  
+	    New File  		   52117	Transparentlayers_CanvaFree.png100%  
+	                 196	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\Blue\
+	    New File  		  272630	Aquaaudio_CanvaFree.png100%  
+	    New File  		   73639	Aquabluechip_CanvaFree.png100%  
+	    New File  		    8789	Aquadigitallne_CanvaFree.png100%  
+	    New File  		  128050	Audio2_CanvaFree.png100%  
+	    New File  		  137164	Audio_CanvaFree.png100%  
+	    New File  		  400331	Blackbluepointing2_CanvaFree.png100%  
+	    New File  		  400331	Blackbluepointing_CanvaFree.png100%  
+	    New File  		   65225	BlueAI_CanvaFree.png100%  
+	    New File  		   25741	Bluearrow_CanvaFree.png100%  
+	    New File  		  112614	Bluebrain_CanvaFree.png100%  
+	    New File  		  304912	Bluebubble_CanvaFree.png100%  
+	    New File  		  207122	Bluecar_CanvaFree.png100%  
+	    New File  		   80763	Bluechip3_CanvaFree.png100%  
+	    New File  		   27274	Bluecirclelayers_CanvaFree.png100%  
+	    New File  		   34027	Bluecircle_CanvaFree.png100%  
+	    New File  		   11876	Bluecomputericon_CanvaFree.png100%  
+	    New File  		  114629	Bluecomputersystem_CanvaFree.png100%  
+	    New File  		  271824	Blueconnectedsystem_CanvaFree.png100%  
+	    New File  		   18336	BlueCPU_CanvaFree.png100%  
+	    New File  		  298997	Bluedarkbubble_CanvaFree.png100%  
+	    New File  		   40088	Bluedeal_CanvaFree.png100%  
+	    New File  		   51356	Bluedetailedcomputersystem_CanvaFree.png100%  
+	    New File  		  108231	Bluedigitalbrain_CanvaFree.png100%  
+	    New File  		    8672	Bluedigitalline_CanvaFree.png100%  
+	    New File  		  240582	Bluedownload_CanvaFree.png100%  
+	    New File  		  240298	Blueearth_CanvaFree.png100%  
+	    New File  		   89740	Bluefingerprint2_CanvaFree.png100%  
+	    New File  		   78396	Bluefingerprint3_CanvaFree.png100%  
+	    New File  		   63000	Bluefingerprint4_CanvaFree.png100%  
+	    New File  		   78405	Bluefingerprint5_CanvaFree.png100%  
+	    New File  		  184849	Bluefingerprint6_CanvaFree.png100%  
+	    New File  		   94708	Bluefingerprint7_CanvaFree.png100%  
+	    New File  		  109272	Bluefingerprint8_CanvaFree.png100%  
+	    New File  		  194098	Bluefingerprint_CanvaFree.png100%  
+	    New File  		   33450	Bluegears2_CanvaFree.png100%  
+	    New File  		   34165	Bluegears_CanvaFree.png100%  
+	    New File  		   39800	Blueglobereaching_CanvaFree.png100%  
+	    New File  		   60078	Bluegradientchip_CanvaFree.png100%  
+	    New File  		  449631	Bluegreencar_CanvaFree.png100%  
+	    New File  		   24655	Bluegreendotslines_CanvaFree.png100%  
+	    New File  		  391713	Bluegreenhandpointing_CanvaFree.png100%  
+	    New File  		   94258	Bluegreeninterconnectedcube_CanvaFree.png100%  
+	    New File  		   32708	Bluegrid_CanvaFree.png100%  
+	    New File  		   34397	Bluehacker_CanvaFree.png100%  
+	    New File  		   40328	BlueIP_CanvaFree.png100%  
+	    New File  		   73180	Bluelayers_CanvaFree.png100%  
+	    New File  		   39031	Bluelinesdots_CanvaFree.png100%  
+	    New File  		    6940	Blueloading_CanvaFree.png100%  
+	    New File  		   30871	Bluelockedmonitor_CanvaFree.png100%  
+	    New File  		   66190	Bluemodemgreen_CanvaFree.png100%  
+	    New File  		   59782	Bluemodem_CanvaFree.png100%  
+	    New File  		   27648	Blueorgstructure_CanvaFree.png100%  
+	    New File  		   15309	Bluepaperbalance_CanvaFree.png100%  
+	    New File  		   43486	Bluepartnershipicon_CanvaFree.png100%  
+	    New File  		   42569	Bluepurpleconnect_CanvaFree.png100%  
+	    New File  		  726691	Bluepurplehand2_CanvaFree.png100%  
+	    New File  		  693404	Bluepurplehand3_CanvaFree.png100%  
+	    New File  		  447748	Bluepurplehand_CanvaFree.png100%  
+	    New File  		   45005	Bluepurplelightbulb_CanvaFree.png100%  
+	    New File  		   42960	Bluepurplemonitor2_CanvaFree.png100%  
+	    New File  		  150844	Bluepurplemonitor_CanvaFree.png100%  
+	    New File  		  322115	Bluepurplepresentation_CanvaFree.png100%  
+	    New File  		   61184	Bluepurplesystems2_CanvaFree.png100%  
+	    New File  		   47594	Bluepurplesystems3_CanvaFree.png100%  
+	    New File  		   52482	Bluepurplesystems4_CanvaFree.png100%  
+	    New File  		   38750	Bluepurplesystems_CanvaFree.png100%  
+	    New File  		  196443	Bluerightcar_CanvaFree.png100%  
+	    New File  		  331222	Blueroad3_CanvaFree.png100%  
+	    New File  		   32158	Bluerouter_CanvaFree.png100%  
+	    New File  		   39288	Bluesecurityaccess_CanvaFree.png100%  
+	    New File  		  107458	Bluesharedriveicon_CanvaFree.png100%  
+	    New File  		   98528	Blueshelfg_CanvaFree.png100%  
+	    New File  		   61810	Bluesun_CanvaFree.png100%  
+	    New File  		   23160	Bluesystemicon_CanvaFree.png100%  
+	    New File  		   80443	Bluesystemsaqua_CanvaFree.png100%  
+	    New File  		   46078	Bluesystems_CanvaFree.png100%  
+	    New File  		   61122	Bluetowers_CanvaFree.png100%  
+	    New File  		  283014	Blueuploaddigital_CanvaFree.png100%  
+	    New File  		   37718	Blueupload_CanvaFree.png100%  
+	    New File  		  195835	Blueupsidedowncar_CanvaFree.png100%  
+	    New File  		   41005	Bluevector2_CanvaFree.png100%  
+	    New File  		   60795	Bluevectors_CanvaFree.png100%  
+	    New File  		   88566	Bluewaves_CanvaFree.png100%  
+	    New File  		   60490	BluewhiteCPU_CanvaFree.png100%  
+	    New File  		  118746	Bluewhitemonitor_CanvaFree.png100%  
+	    New File  		   54306	Bluewifisearching_CanvaFree.png100%  
+	    New File  		   12888	Darkbluecomputericon_CanvaFree.png100%  
+	    New File  		  526297	Darkbluecube2_CanvaFree.png100%  
+	    New File  		  526388	Darkbluecube_CanvaFree.png100%  
+	    New File  		   38525	Darkbluehacker_CanvaFree.png100%  
+	    New File  		   15202	Downloadicon_CanvaFree.png100%  
+	    New File  		   43942	Laptopmonitor_CanvaFree.png100%  
+	    New File  		   24559	Purplebluearrowlines_CanvaFree.png100%  
+	    New File  		   24157	Purpleblyearrowlines_CanvaFree.png100%  
+	    New File  		  453523	Purplehandpointing_CanvaFree.png100%  
+	    New File  		  430088	Turquoisecube2_CanvaFree.png100%  
+	    New File  		  430710	Turquoisecube_CanvaFree.png100%  
+	                 173	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\Green\
+	    New File  		   33357	254_CanvaFree.png100%  
+	    New File  		   61141	258_CanvaFree.png100%  
+	    New File  		  212645	25_CanvaFree.png100%  
+	    New File  		   31602	266_CanvaFree.png100%  
+	    New File  		   29350	267_CanvaFree.png100%  
+	    New File  		   39699	274_CanvaFree.png100%  
+	    New File  		   38003	275_CanvaFree.png100%  
+	    New File  		   68791	280_CanvaFree.png100%  
+	    New File  		   39695	288_CanvaFree.png100%  
+	    New File  		   78526	291_CanvaFree.png100%  
+	    New File  		   41385	294_CanvaFree.png100%  
+	    New File  		  473713	29_CanvaFree.png100%  
+	    New File  		  471301	30_CanvaFree.png100%  
+	    New File  		   66100	310_CanvaFree.png100%  
+	    New File  		   41019	315_CanvaFree.png100%  
+	    New File  		   83682	319_CanvaFree.png100%  
+	    New File  		   45986	322_CanvaFree.png100%  
+	    New File  		   48120	328_CanvaFree.png100%  
+	    New File  		   89975	334_CanvaFree.png100%  
+	    New File  		   29514	342_CanvaFree.png100%  
+	    New File  		  217787	371_CanvaFree.png100%  
+	    New File  		  740481	41_CanvaFree.png100%  
+	    New File  		  740306	42_CanvaFree.png100%  
+	    New File  		  108595	46_CanvaFree.png100%  
+	    New File  		  449631	4_CanvaFree.png100%  
+	    New File  		  342972	57_CanvaFree.png100%  
+	    New File  		   27256	62_CanvaFree.png100%  
+	    New File  		  476727	66_CanvaFree.png100%  
+	    New File  		   22339	69_CanvaFree.png100%  
+	    New File  		   23675	70_CanvaFree.png100%  
+	    New File  		   24212	73_CanvaFree.png100%  
+	    New File  		   15281	74_CanvaFree.png100%  
+	    New File  		  152460	82_CanvaFree.png100%  
+	    New File  		  292022	85_CanvaFree.png100%  
+	    New File  		   67673	88_CanvaFree.png100%  
+	    New File  		   74716	89_CanvaFree.png100%  
+	    New File  		  554226	8_CanvaFree.png100%  
+	    New File  		   85615	90_CanvaFree.png100%  
+	    New File  		   25904	Greenarro_CanvaFree.png100%  
+	    New File  		  357151	Greenaudio2_CanvaFree.png100%  
+	    New File  		  368212	Greenaudio_CanvaFree.png100%  
+	    New File  		  302875	Greenbubble_CanvaFree.png100%  
+	    New File  		  202642	Greencare2_CanvaFree.png100%  
+	    New File  		  201686	Greencare3_CanvaFree.png100%  
+	    New File  		   39726	Greenclock2_CanvaFree.png100%  
+	    New File  		   39989	Greenclock_CanvaFree.png100%  
+	    New File  		   92650	Greencpu2_CanvaFree.png100%  
+	    New File  		   97800	Greencpu3_CanvaFree.png100%  
+	    New File  		   70343	Greencpu4_CanvaFree.png100%  
+	    New File  		   18978	GreenCPU_CanvaFree.png100%  
+	    New File  		   94607	Greencube2_CanvaFree.png100%  
+	    New File  		  554135	Greencube_CanvaFree.png100%  
+	    New File  		  105995	Greendigitalbrain2_CanvaFree.png100%  
+	    New File  		  115123	Greendigitalbrain_CanvaFree.png100%  
+	    New File  		   25845	Greendots10_CanvaFree.png100%  
+	    New File  		   25534	Greendots11_CanvaFree.png100%  
+	    New File  		   25354	Greendots12_CanvaFree.png100%  
+	    New File  		   27998	Greendots24_CanvaFree.png100%  
+	    New File  		   27413	Greendots2_CanvaFree.png100%  
+	    New File  		   28547	Greendots3_CanvaFree.png100%  
+	    New File  		   32488	Greendots5_CanvaFree.png100%  
+	    New File  		   13198	Greendots6_CanvaFree.png100%  
+	    New File  		    8910	Greendots7_CanvaFree.png100%  
+	    New File  		    9585	Greendots8_CanvaFree.png100%  
+	    New File  		   40136	Greendots9_CanvaFree.png100%  
+	    New File  		   15430	Greendownload_CanvaFree.png100%  
+	    New File  		   33651	Greendrive2_CanvaFree.png100%  
+	    New File  		   37022	Greendrive_CanvaFree.png100%  
+	    New File  		   97727	Greeneave_CanvaFree.png100%  
+	    New File  		   93140	Greenfingerprint2_CanvaFree.png100%  
+	    New File  		   88349	Greenfingerprint3_CanvaFree.png100%  
+	    New File  		   79093	Greenfingerprint4_CanvaFree.png100%  
+	    New File  		   73219	Greenfingerprint5_CanvaFree.png100%  
+	    New File  		   67751	Greenfingerprint6_CanvaFree.png100%  
+	    New File  		   70748	Greenfingerprint7_CanvaFree.png100%  
+	    New File  		   79337	Greenfingerprint8_CanvaFree.png100%  
+	    New File  		  107245	Greenfingerprint9_CanvaFree.png100%  
+	    New File  		  195195	Greenfingerprint_CanvaFree.png100%  
+	    New File  		   36176	GreenGear_CanvaFree.png100%  
+	    New File  		   34942	Greengrid_CanvaFree.png100%  
+	    New File  		   43576	Greenlaptop_CanvaFree.png100%  
+	    New File  		   25980	Greenlayers_CanvaFree.png100%  
+	    New File  		    6911	Greenloading1_CanvaFree.png100%  
+	    New File  		    6801	Greenloading2_CanvaFree.png100%  
+	    New File  		  128911	Greenpentagon_CanvaFree.png100%  
+	    New File  		  339782	Greenscifibuilding_CanvaFree.png100%  
+	    New File  		  112088	Greensharepoint2_CanvaFree.png100%  
+	    New File  		  106873	Greensharepoint_CanvaFree.png100%  
+	    New File  		   25251	Greensystem_CanvaFree.png100%  
+	                   5	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\Licenses\
+	  *EXTRA File 		  323652	Canva's Content License Agreement.pdf
+	  *EXTRA File 		  138525	Personal Use of Freepik Resources.pdf
+	  *EXTRA File 		  786633	Terms of use _ Freepik.pdf
+	    New File  		  130682	Adobe_Firefly_Generative_AI_User Guidelines.pdf100%  
+	    New File  		  323652	Canva_Content_License_Agreement.pdf100%  
+	    New File  		  138525	Freepik_Resources_Personal_Use.pdf100%  
+	    New File  		  786633	Freepik_Terms_Of_Use.pdf100%  
+	    New File  		    2446	Futuristic_City_Gen.md100%  
+	                 110	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\Purple\
+	  *EXTRA File 		  516380	86.png
+	  *EXTRA File 		  394815	90.png
+	  *EXTRA File 		  353317	94.png
+	  *EXTRA File 		  339782	95.png
+	  *EXTRA File 		   84086	96.png
+	    New File  		  189005	102_CanvaFree.png100%  
+	    New File  		  503600	10_CanvaFree.png100%  
+	    New File  		  147664	113_CanvaFree.png100%  
+	    New File  		   27075	118_CanvaFree.png100%  
+	    New File  		  503600	11_CanvaFree.png100%  
+	    New File  		   18415	125_CanvaFree.png100%  
+	    New File  		   33864	132_CanvaFree.png100%  
+	    New File  		   90957	135_CanvaFree.png100%  
+	    New File  		   85267	138_CanvaFree.png100%  
+	    New File  		   28834	141_CanvaFree.png100%  
+	    New File  		   12092	152_CanvaFree.png100%  
+	    New File  		    6770	154_CanvaFree.png100%  
+	    New File  		   64595	163_CanvaFree.png100%  
+	    New File  		   26879	169_CanvaFree.png100%  
+	    New File  		    8534	176_CanvaFree.png100%  
+	    New File  		  119381	189_CanvaFree.png100%  
+	    New File  		  313516	18_CanvaFree.png100%  
+	    New File  		   81908	205_CanvaFree.png100%  
+	    New File  		   39768	219_CanvaFree.png100%  
+	    New File  		  108390	230_CanvaFree.png100%  
+	    New File  		   75126	234_CanvaFree.png100%  
+	    New File  		   25314	237_CanvaFree.png100%  
+	    New File  		   24403	238_CanvaFree.png100%  
+	    New File  		   97699	244_CanvaFree.png100%  
+	    New File  		   31583	250_CanvaFree.png100%  
+	    New File  		   60971	257_CanvaFree.png100%  
+	    New File  		   30289	264_CanvaFree.png100%  
+	    New File  		  316399	271_CanvaFree.png100%  
+	    New File  		   46632	272_CanvaFree.png100%  
+	    New File  		   66403	282_CanvaFree.png100%  
+	    New File  		   40206	286_CanvaFree.png100%  
+	    New File  		  481495	2_CanvaFree_CanvaFree.png100%  
+	    New File  		   41486	301_CanvaFree.png100%  
+	    New File  		   49766	302_CanvaFree.png100%  
+	    New File  		   54239	303_CanvaFree.png100%  
+	    New File  		   67712	307_CanvaFree.png100%  
+	    New File  		   59331	312_CanvaFree.png100%  
+	    New File  		   57461	313_CanvaFree.png100%  
+	    New File  		   54949	314_CanvaFree.png100%  
+	    New File  		   79792	317_CanvaFree.png100%  
+	    New File  		   44380	323_CanvaFree.png100%  
+	    New File  		  454878	32_CanvaFree.png100%  
+	    New File  		   80500	338_CanvaFree.png100%  
+	    New File  		   82205	360_CanvaFree.png100%  
+	    New File  		  707856	36_CanvaFree.png100%  
+	    New File  		   77613	372_CanvaFree.png100%  
+	    New File  		  117948	375_CanvaFree.png100%  
+	    New File  		   89310	45_CanvaFree.png100%  
+	    New File  		  458232	48_CanvaFree.png100%  
+	    New File  		  422442	49_CanvaFree.png100%  
+	    New File  		  453232	54_CanvaFree.png100%  
+	    New File  		  307541	56_CanvaFree.png100%  
+	    New File  		  504022	5_CanvaFree.png100%  
+	    New File  		   24905	61_CanvaFree.png100%  
+	    New File  		  171880	83_CanvaFree.png100%  
+	    New File  		   81572	87_CanvaFree.png100%  
+	    New File  		   84086	Narrowwindingroad_CanvaFree.png100%  
+	    New File  		  394815	Purplediagonalcity2_CanvaFree.png100%  
+	    New File  		  516380	Readingrobot_CanvaFree.png100%  
+	    New File  		  353317	Scifibuilding_CanvaFree.png100%  
+	                 129	C:\Users\ibrah\OneDrive - Zenme\Web Development - Digital Assets\Red\
+	  *EXTRA File 		  429288	132.png
+	  *EXTRA File 		   75675	144.png
+	  *EXTRA File 		   75648	145.png
+	  *EXTRA File 		  677439	155.png
+	  *EXTRA File 		   43920	161.png
+	  *EXTRA File 		  105896	166.png
+	  *EXTRA File 		  222787	172.png
+	  *EXTRA File 		  552968	175.png
+	  *EXTRA File 		   14545	179.png
+	  *EXTRA File 		   62687	185.png
+	  *EXTRA File 		  122911	190.png
+	  *EXTRA File 		   58498	193.png
+	  *EXTRA File 		   35976	202.png
+	  *EXTRA File 		  133099	204.png
+	  *EXTRA File 		  411264	209.png
+	  *EXTRA File 		  182516	215.png
+	  *EXTRA File 		  143106	216.png
+	  *EXTRA File 		   19420	221.png
+	  *EXTRA File 		   20466	222.png
+	  *EXTRA File 		  159247	232.png
+	  *EXTRA File 		   26652	235.png
+	  *EXTRA File 		   12315	240.png
+	  *EXTRA File 		  266015	250.png
+	  *EXTRA File 		  105361	253.png
+	  *EXTRA File 		   91049	257.png
+	  *EXTRA File 		   22574	260.png
+	  *EXTRA File 		   29066	269.png
+	  *EXTRA File 		   22058	272.png
+	  *EXTRA File 		   27206	276.png
+	  *EXTRA File 		   24788	283.png
+	  *EXTRA File 		   37125	285.png
+	  *EXTRA File 		   36658	289.png
+	  *EXTRA File 		   27967	291.png
+	  *EXTRA File 		   37700	294.png
+	  *EXTRA File 		   11857	35.png
+	  *EXTRA File 		  277719	40.png
+	  *EXTRA File 		  289096	43.png
+	  *EXTRA File 		  451214	49.png
+	  *EXTRA File 		  554553	53.png
+	  *EXTRA File 		  246133	54.png
+	  *EXTRA File 		  202523	57.png
+	  *EXTRA File 		  613347	63.png
+	  *EXTRA File 		  385643	92.png
+	  *EXTRA File 		   90205	97.png
+	    New File  		  194985	103_CanvaFree.png100%  
+	    New File  		   81472	104_CanvaFree.png100%  
+	    New File  		   84446	111_CanvaFree.png100%  
+	    New File  		   65561	112_CanvaFree.png100%  
+	    New File  		  122676	116_CanvaFree.png100%  
+	    New File  		   27458	123_CanvaFree.png100%  
+	    New File  		   18551	127_CanvaFree.png100%  
+	    New File  		   34684	131_CanvaFree.png100%  
+	    New File  		   94854	139_CanvaFree.png100%  
+	    New File  		   32764	144_CanvaFree.png100%  
+	    New File  		   34030	146_CanvaFree.png100%  
+	    New File  		   12970	151_CanvaFree.png100%  
+	    New File  		    6811	157_CanvaFree.png100%  
+	    New File  		   71580	162_CanvaFree.png100%  
+	    New File  		   78069	165_CanvaFree.png100%  
+	    New File  		   25986	171_CanvaFree.png100%  
+	    New File  		    8916	177_CanvaFree.png100%  
+	    New File  		   10041	183_CanvaFree.png100%  
+	    New File  		   40112	186_CanvaFree.png100%  
+	    New File  		  131462	191_CanvaFree.png100%  
+	    New File  		  114435	196_CanvaFree.png100%  
+	    New File  		  312752	19_CanvaFree.png100%  
+	    New File  		   43443	201_CanvaFree.png100%  
+	    New File  		   92215	206_CanvaFree.png100%  
+	    New File  		   37303	210_CanvaFree.png100%  
+	    New File  		   15359	212_CanvaFree.png100%  
+	    New File  		   25630	217_CanvaFree.png100%  
+	    New File  		   38098	223_CanvaFree.png100%  
+	    New File  		   16159	225_CanvaFree.png100%  
+	    New File  		  110392	229_CanvaFree.png100%  
+	    New File  		   63519	232_CanvaFree.png100%  
+	    New File  		   25220	242_CanvaFree.png100%  
+	    New File  		  100208	247_CanvaFree.png100%  
+	    New File  		   34429	253_CanvaFree.png100%  
+	    New File  		   60655	255_CanvaFree.png100%  
+	    New File  		   31182	265_CanvaFree.png100%  
+	    New File  		  224454	26_CanvaFree.png100%  
+	    New File  		  339779	270_CanvaFree.png100%  
+	    New File  		   38803	278_CanvaFree.png100%  
+	    New File  		  224347	27_CanvaFree.png100%  
+	    New File  		   67623	281_CanvaFree.png100%  
+	    New File  		   36574	287_CanvaFree.png100%  
+	    New File  		   69454	292_CanvaFree.png100%  
+	    New File  		   40797	296_CanvaFree.png100%  
+	    New File  		   65661	308_CanvaFree.png100%  
+	    New File  		   62401	316_CanvaFree.png100%  
+	    New File  		  465164	31_CanvaFree.png100%  
+	    New File  		   70089	320_CanvaFree.png100%  
+	    New File  		   46704	329_CanvaFree.png100%  
+	    New File  		   79388	333_CanvaFree.png100%  
+	    New File  		   94681	335_CanvaFree.png100%  
+	    New File  		  242646	374_CanvaFree.png100%  
+	    New File  		  728852	39_CanvaFree.png100%  
+	    New File  		  731527	44_CanvaFree.png100%  
+	    New File  		  108526	47_CanvaFree.png100%  
+	    New File  		  420154	52_CanvaFree.png100%  
+	    New File  		  391328	59_CanvaFree.png100%  
+	    New File  		   26901	63_CanvaFree.png100%  
+	    New File  		  431241	67_CanvaFree.png100%  
+	    New File  		   12773	76_CanvaFree.png100%  
+	    New File  		   12835	77_CanvaFree.png100%  
+	    New File  		   22315	78_CanvaFree.png100%  
+	    New File  		   23240	79_CanvaFree.png100%  
+	    New File  		  131049	81_CanvaFree.png100%  
+	    New File  		   66366	91_CanvaFree.png100%  
+	    New File  		  111103	95_CanvaFree.png100%  
+	    New File  		  564262	9_CanvaFree.png100%  
+	    New File  		   37700	Businesslaptopred_CanvaFree.png100%  
+	    New File  		  122911	Citywindows_CanvaFree.png100%  
+	    New File  		  677439	Citywithbuildings_CanvaFree.png100%  
+	    New File  		  182516	Deepredmonitor_CanvaFree.png100%  
+	    New File  		  222787	Diagonalbuildingred_CanvaFree.png100%  
+	    New File  		   24788	Dollarpin_CanvaFree.png100%  
+	    New File  		   62687	Loadingscreenred_CanvaFree.png100%  
+	    New File  		  105896	Multiplebuildings_CanvaFree.png100%  
+	    New File  		  451214	Orangeredsmudge_CanvaFree.png100%  
+	    New File  		  552968	Phonetouchscreen_CanvaFree.png100%  
+	    New File  		  554553	Purpleredsmudge_CanvaFree.png100%  
+	    New File  		   36658	Redcard_CanvaFree.png100%  
+	    New File  		  429288	Redcar_CanvaFree.png100%  
+	    New File  		   37125	Redcash_CanvaFree.png100%  
+	    New File  		  133099	Redcrossphone_CanvaFree.png100%  
+	    New File  		  385643	Reddiagonalcity_CanvaFree.png100%  
+	    New File  		  613347	Reddoorwaydisintegrating_CanvaFree.png100%  
+	    New File  		   26652	Reddotslines_CanvaFree.png100%  
+	    New File  		   27206	Reddoubleshield_CanvaFree.png100%  
+	    New File  		  277719	Redgradientcircle_CanvaFree.png100%  
+	    New File  		  105361	Redgreendotsskyline_CanvaFree.png100%  
+	    New File  		   27967	Redgrowthperformancechart_CanvaFree.png100%  
+	    New File  		  289096	Redhologrampath_CanvaFree.png100%  
+	    New File  		   58498	Redloadingwindowcomputer_CanvaFree.png100%  
+	    New File  		   19420	Redlock2_CanvaFree.png100%  
+	    New File  		   11857	Redpindrop_CanvaFree.png100%  
+	    New File  		  143106	Redpurplemonitor_CanvaFree.png100%  
+	    New File  		   91049	Redsecuritychip_CanvaFree.png100%  
+	    New File  		  266015	Redsecuritykey_CanvaFree.png100%  
+	    New File  		   22574	Redsecurityshieldtick_CanvaFree.png100%  
+	    New File  		   75648	Redskyscrapergradient2_CanvaFree.png100%  
+	    New File  		   75675	Redskyscrapergradient_CanvaFree.png100%  
+	    New File  		   29066	Securityredlockwhiteoutline_CanvaFree.png100%  
+	    New File  		   14545	Securityscreenred_CanvaFree.png100%  
+	    New File  		  159247	Sidewaysphone_CanvaFree.png100%  
+	    New File  		   35976	Tabletred_CanvaFree.png100%  
+	    New File  		   12315	Twoconnectingdotlines_CanvaFree.png100%  
+	    New File  		  411264	Walletsecurity_CanvaFree.png100%  
+	    New File  		  202523	Waveholographicred2_CanvaFree.png100%  
+	    New File  		  246133	Waveholographicred_CanvaFree.png100%  
+	    New File  		   22058	Whiteshieldredoutline_CanvaFree.png100%  
+	    New File  		   90205	Windingredcity_CanvaFree.png100%  
+	    New File  		   43920	Windingredroad_CanvaFree.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         7         0         7         0         0         0
+   Files :       755       430       325         0         0        52
+   Bytes :  170.82 m   54.73 m  116.09 m         0         0    9.89 m
+   Times :   0:00:01   0:00:01                       0:00:00   0:00:00
+
+
+   Speed :           45,189,918 Bytes/sec.
+   Speed :            2,585.788 MegaBytes/min.
+   Ended : Wednesday, 15 April 2026 2:42:31 PM
+
